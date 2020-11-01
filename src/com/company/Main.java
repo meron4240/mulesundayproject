@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Binny is fun");
         System.out.println("Java is fun");
         System.out.println("Mule soft project");
-        System.out.println("Meron is ood student");
+
     }
 }
